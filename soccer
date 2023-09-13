@@ -1,0 +1,26 @@
+<div class="header">
+  <h1>Header</h1>
+  <p>All about soccer</p>
+</div>
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+  /* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}    <!DOCTYPE html>
+<html>
+<body> 
+
+<h1>My First Heading</h1>
+
+<p>My soccer.</p>
+
+</body>
+</html>
