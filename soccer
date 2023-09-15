@@ -1,6 +1,6 @@
 <div class="header">
-  <h1>Header</h1>
-  <p>All about soccer</p>
+  <h1>All about soccer</h1>
+  <p>ray guaman</p>
 </div>
 <style>
 /* Style the body */
@@ -22,5 +22,3 @@ body {
 
 <p>My soccer.</p>
 
-</body>
-</html>
